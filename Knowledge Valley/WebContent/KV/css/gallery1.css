@@ -52,6 +52,9 @@
 	cursor: pointer;
 	float: left;
 	padding: 4px;
+	width: 277px; 
+	height: 155.8px; 
+	overflow: hidden;
 }
 
 .gamma-gallery li img {
